@@ -1,2 +1,2 @@
-registration is started  
-hello
+registration is started
+starting today
